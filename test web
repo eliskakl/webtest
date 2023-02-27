@@ -25,6 +25,7 @@
                 <li><a href="#kontakty">Kontakty</a></li>
             </ul>
         </li>
+        <li><a href="nadpis.html" target="_blank">odkazseznam</a></li>
     </ul> <!--konec menu-->
 
     <h2 id="úvod">Úvod</h2> <!--začátek úvod-->
