@@ -21,7 +21,7 @@
         <li><a href="#omně">O mně</a>
             <ul>
                 <li><a href="#zkušenosti">Zkušenosti</a></li>
-                <li><a href="#odkazy">Odkazy</a></li>
+                <li><a href="#užitečnéodkazy">Užitečné odkazy</a></li>
                 <li><a href="#kontakty">Kontakty</a></li>
             </ul>
         </li>
@@ -85,7 +85,7 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nobis voluptas laudantium magni eveniet
         voluptates veritatis, quaerat atque sequi aliquid non quidem optio enim laboriosam blanditiis odio cupiditate
         doloribus eaque!</p>
-    <h3 id="odkazy">Odkazy</h3> <!--odkazy-->
+    <h3 id="užitečnéodkazy">Užitečné odkazy</h3> <!--odkazy-->
     <a href="https://github.com/eliskakl" target="_blank">github</a> <br>
     <a href="https://youtube.com" target="_blank">youtube</a>
     <h3 id="kontakty">Kontakty</h3> <!--kontakty-->
