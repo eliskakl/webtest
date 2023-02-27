@@ -25,7 +25,7 @@
                 <li><a href="#kontakty">Kontakty</a></li>
             </ul>
         </li>
-        <li><a href="nadpis.html" target="_blank">odkazseznam</a></li>
+        <li><a href="nadpis.html" target="_blank">odkazseznam</a></li> <!--odkaz na nadpis -->
     </ul> <!--konec menu-->
 
     <h2 id="úvod">Úvod</h2> <!--začátek úvod-->
@@ -89,11 +89,11 @@
     <h3 id="užitečnéodkazy">Užitečné odkazy</h3> <!--odkazy-->
     <a href="https://github.com/eliskakl" target="_blank">github</a> <br>
     <a href="https://youtube.com" target="_blank">youtube</a> <br>
-    <a href="gallery.html" target="_blank">Galerie</a> <br>
+    <a href="gallery.html" target="_blank">Galerie</a> <br> <!--odkaz na galerii -->
 
-    <h3 id="kontakty">Kontakty</h3> <!--kontakty-->
+    <h3 id="kontakty">Kontakty</h3> <!--kontakty na mě-->
     <p><img src="phone.webp" alt="mail" style="height:20px; width:20px"> eliskaklenovcova@gmail.com</p>
-    <p><img src="email.png" alt="phone" style="height:20px; width:20px"> +920 131 019 151</p> <!--konec o mě-->
+    <p><img src="email.png" alt="phone" style="height:20px; width:20px"> +920 131 019 151</p> <!--konec o mně-->
     
 </body>
 </html>
